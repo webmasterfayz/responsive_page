@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#australiapage{position:relative; width:100%; background-repeat:repeat;
+background-image:url(images/header_bg_left.jpg); background-color:#016938;}
+#australiapage .left { 
+/*width:57%;
+color: white;  
+
+
+position:relative; */
+    padding-top:2%
+}
+#australiapage .right {width:43%;color: white;position:relative; background-color:#016938;}
+.australiapage_logoimage{ width:39%; max-width:266px; max-height:73px;}
+#australiapage .logorightimage{ width:65%; max-width:440px; max-height:110px;float: left;}
+ul.nav.navbar-nav>li>a {border-right: none!important;font-size: 17px;text-shadow: 1px 1px 1px #4E4D4D; color:#FFFFFF; padding-top:6px; padding-bottom:6px;}
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus { background-color:#999999}
+table.table tbody tr td{ font-size:95%!important; color:#666666; width:125px; white-space: pre-wrap!important;}
+.australiapage_imagediv{width:31%; position:relative; float:left;}
+.australiapage_headingdiv{width:69%; position:relative; float:left; color:#5a5a5a; padding-left:5%;}
+.rowmargin_off{margin-left:0px!important;margin-right:0px!important;}
+.teleflemdiv{padding-left:0px;padding-right:0px; max-width:28%;float:left; position:relative;}
+.teleflem_txt_div{padding-top:10px; height:52px; position:relative; float:left;}
